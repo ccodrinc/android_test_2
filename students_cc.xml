@@ -1,22 +1,24 @@
-<students>
-    <student>
-        <studentName>Ana</studentName>
-        <studentAge>21</studentAge>
-        <gradesAverage>8.5</gradesAverage>
-    </student>
-    <student>
-        <studentName>Ion</studentName>
-        <studentAge>22</studentAge>
-        <gradesAverage>9.1</gradesAverage>
-    </student>
-    <student>
-        <studentName>Maria</studentName>
-        <studentAge>23</studentAge>
-        <gradesAverage>7.9</gradesAverage>
-    </student>
-    <student>
-        <studentName>Paul</studentName>
-        <studentAge>24</studentAge>
-        <gradesAverage>9.7</gradesAverage>
-    </student>
-</students>
+{
+  "students": [
+    {
+      "studentName": "Ana",
+      "studentAge": 21,
+      "gradesAverage": 8.5
+    },
+    {
+      "studentName": "Ion",
+      "studentAge": 22,
+      "gradesAverage": 9.1
+    },
+    {
+      "studentName": "Maria",
+      "studentAge": 23,
+      "gradesAverage": 7.9
+    },
+    {
+      "studentName": "Paul",
+      "studentAge": 24,
+      "gradesAverage": 9.7
+    }
+  ]
+}
